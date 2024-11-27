@@ -1,6 +1,7 @@
 ﻿# movie-reservation-system-api-service
 
 This movie reservation API service use Typescript on Node.JS and Express, with PostgreSQL for DB and use Swagger to generate API Docs
+Also this service use JWT authentication and Bearer token for authorizeation.
 
 after clone this repository Please npm install and use "npm start" to start The server
 
